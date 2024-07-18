@@ -58,27 +58,6 @@ A real-time chat application built with React, Socket.IO, and Node.js. This appl
 2. Enter your username and a room ID to join a chat room.
 3. Start chatting in real-time!
 
-## Folder Structure
-
-
-.
-├── client
-│   ├── public
-│   ├── src
-│   │   ├── components
-│   │   │   ├── Chat.js
-│   │   │   ├── ...
-│   │   ├── App.js
-│   │   ├── index.js
-│   ├── package.json
-├── server
-│   ├── index.js
-│   ├── ...
-│   ├── package.json
-├── .gitignore
-├── README.md
-
-
 ## Dependencies
 
 ### Client
